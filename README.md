@@ -5,6 +5,7 @@ A single place to put all documentation, tools and research links my Journey to 
 A list of commonly used tools to help start disecting firmware
 
 **Binwalk** - https://github.com/ReFirmLabs/binwalk
+**UnsquashFS** - https://github.com/plougher/squashfs-tools
 
 ## Common File systems
 **SquashFS** - Squash FS is one of the most commonly used files systems within embedded devices, it is a read only Linux file system so it will have a very familiar look and feel to any novice linux user. In order to uncompress SuashFS directories we may need a tool, such as UnsquashFS. 
