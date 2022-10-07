@@ -1,0 +1,1 @@
+This directory contains all firmwares that I have learned on, aiming to show a progression in difficulty
